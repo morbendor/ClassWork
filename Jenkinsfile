@@ -1,4 +1,5 @@
 node {
   stage ("test"){
-  echo "Hello from pipline"
+    echo "Hello from pipline"
+  }
 }
